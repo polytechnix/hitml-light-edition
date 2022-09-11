@@ -1,2 +1,2 @@
-# Hitml (Light edition)  
-A simple JS library for guitarists.
+# Hitml (light edition)  
+A simple JS library for guitarists.  
